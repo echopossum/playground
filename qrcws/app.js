@@ -15,3 +15,4 @@ gain.on('update', (state) =>{
     console.log(state)
 })
 
+gain.update(-100)
